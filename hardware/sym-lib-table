@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dp-memory")(type "Legacy")(uri "${KIPRJMOD}/lib/micron/dp-memory.lib")(options "")(descr ""))
+)
