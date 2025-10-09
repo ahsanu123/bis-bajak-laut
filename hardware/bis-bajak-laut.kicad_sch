@@ -24094,7 +24094,7 @@
 	)
 	(text "POWER"
 		(exclude_from_sim no)
-		(at 574.294 173.99 0)
+		(at 592.074 173.736 0)
 		(effects
 			(font
 				(face "Hack Nerd Font")
