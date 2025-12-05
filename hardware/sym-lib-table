@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "dp-memory")(type "Legacy")(uri "${KIPRJMOD}/lib/micron/dp-memory.lib")(options "")(descr ""))
+  (lib (name "rp2350-tempel-lib")(type "KiCad")(uri "${KIPRJMOD}/lib/rp2350-tempel-lib.kicad_sym")(options "")(descr ""))
 )
