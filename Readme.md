@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/f3d1e24b-b68d-4ae5-88ab-6d7d6e7f290d?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 
 <p align="center">    
   <img width="450"  alt="image" src="./bis-bajak-laut-logo.png" />
